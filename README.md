@@ -16,15 +16,18 @@
 - 🌱 Learning **Deep Learning** and **Advanced Python**  
 - 💬 Ask me about **Python, Data Science, or C++**  
 - ⚡ Fun fact: I love mixing creativity with logic — be it code, design, or content.  
-- 🎮 I’m also part of **Gamer’s Creed Club** and a team leader of **Ethereal Elites**  
 
 ---
 
 ### 🚀 Languages and Tools
 
 <p align="center">
+  
   <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux" />
-  <br/>
+</p>
+
+<p align="center">
+  
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn" />
 </p>
 
@@ -39,13 +42,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Guru1834&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 🧩 Random Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
 </p>
 
 ---
