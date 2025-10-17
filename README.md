@@ -18,16 +18,6 @@
 
 ### 🧠 About Me
 
-class DataScientist:
-def init(self):
-self.name = "Gurbaksh Singh"
-self.role = "ML & Data Science Enthusiast"
-self.languages = ["Python", "C++", "Japanese"]
-self.current_focus = ["Deep Learning", "Advanced Python", "AI Development"]
-self.interests = ["Algorithm Problem Solving", "Business Analytics", "Creative Design"]
-def say_hi(self):
-    print("Thanks for visiting! Let's build something amazing together.")
-
 - 🔭 Working on **Machine Learning** and **Data Science Projects**
 - 🌱 Learning **Deep Learning**, **Advanced Python**, and **Japanese (JLPT N5)**
 - 💼 Running a small business while pursuing tech innovation
