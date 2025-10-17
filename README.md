@@ -22,12 +22,12 @@
 ### 🚀 Languages and Tools
 
 <p align="center">
-  
-  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,vscode,linux" />
+  <!-- First Row -->
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux" />
 </p>
 
 <p align="center">
-  
+  <!-- Second Row -->
   <img src="https://skillicons.dev/icons?i=pandas,numpy,matplotlib,seaborn,sklearn" />
 </p>
 
