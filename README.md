@@ -49,9 +49,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guru1834&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Guru1834&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
 
 
 ---
