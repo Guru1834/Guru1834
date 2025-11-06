@@ -83,11 +83,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
 
 <p align="center">
   ⭐️ From <a href="https://github.com/Guru1834">Guru1834</a> | Made with 💙 and Python
